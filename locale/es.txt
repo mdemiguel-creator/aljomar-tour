@@ -1,0 +1,98 @@
+#: locale=es
+
+## Acción
+
+### URL
+WebFrame_A34929DC_BD6D_79F2_41BB_CD622FA54570.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d572.020334535243!2d-5.665984474755299!3d40.56885093588445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd3f015d773a86af%3A0x10809af06bde7469!2sJamones%20Aljomar!5e1!3m2!1ses!2ses!4v1772704980385!5m2!1ses!2ses
+WebFrame_A34929DC_BD6D_79F2_41BB_CD622FA54570_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d572.020334535243!2d-5.665984474755299!3d40.56885093588445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd3f015d773a86af%3A0x10809af06bde7469!2sJamones%20Aljomar!5e1!3m2!1ses!2ses!4v1772704980385!5m2!1ses!2ses
+
+## Media
+
+### Audio
+audiores_947ACDD3_BEAD_59F6_41E5_EB1EDAB26ACB.mp3Url = media/audio_9486893D_BEAA_C6B2_41CB_A8F6F030F48E_es.mp3
+
+### Subtítulos de Audio
+
+### Subtítulos de Video
+
+### Título
+video_DAB7CDD4_C259_4F20_41D3_A00CDA18F3CC.label = CELLARIUM
+video_DD8B311A_C266_F720_41E2_75C32F5C0F99.label = CELLARIUM2
+album_9E1AB1B7_BDDD_C9BE_41B6_7318CF94AB49.label = PASILLO
+panorama_A3716C1A_BDAB_DE76_41E4_956A46222F96.label = Panoramica copia
+album_9F90A9A9_BDD5_4652_41D7_39CDCD082B13_0.label = _V7A2001
+album_9F90A9A9_BDD5_4652_41D7_39CDCD082B13_1.label = _V7A2002
+album_9F90A9A9_BDD5_4652_41D7_39CDCD082B13_2.label = _V7A2004
+album_9F90A9A9_BDD5_4652_41D7_39CDCD082B13_3.label = _V7A2005
+album_9F90A9A9_BDD5_4652_41D7_39CDCD082B13_4.label = _V7A2007
+album_9E1AB1B7_BDDD_C9BE_41B6_7318CF94AB49_0.label = _V7A2009
+album_9E1AB1B7_BDDD_C9BE_41B6_7318CF94AB49_1.label = _V7A2010
+album_9E1AB1B7_BDDD_C9BE_41B6_7318CF94AB49_2.label = _V7A2011
+album_9E1AB1B7_BDDD_C9BE_41B6_7318CF94AB49_3.label = _V7A2012
+album_9E1AB1B7_BDDD_C9BE_41B6_7318CF94AB49_4.label = _V7A2013
+album_9E1AB1B7_BDDD_C9BE_41B6_7318CF94AB49_5.label = _V7A2015
+album_9E1AB1B7_BDDD_C9BE_41B6_7318CF94AB49_6.label = _V7A2018
+album_9F90A9A9_BDD5_4652_41D7_39CDCD082B13.label = cocina
+
+### Video
+videolevel_E74AEBFC_C2A6_CAE0_41DF_D68BC4D380D6.url = media/video_DAB7CDD4_C259_4F20_41D3_A00CDA18F3CC_es.mp4
+videolevel_E74AEBFC_C2A6_CAE0_41DF_D68BC4D380D6.posterURL = media/video_DAB7CDD4_C259_4F20_41D3_A00CDA18F3CC_poster_es.jpg
+videolevel_E697D713_C2B9_5B20_41A3_130DB63DB527.url = media/video_DD8B311A_C266_F720_41E2_75C32F5C0F99_es.mp4
+videolevel_E697D713_C2B9_5B20_41A3_130DB63DB527.posterURL = media/video_DD8B311A_C266_F720_41E2_75C32F5C0F99_poster_es.jpg
+
+## Skin
+
+### Botón
+Button_990E28E3_BDEB_47D6_41C3_EB4EC009D5B2.label = lorem ipsum
+Button_990E28E3_BDEB_47D6_41C3_EB4EC009D5B2_mobile.label = lorem ipsum
+
+### Imágen
+Image_947588FB_BEAD_47B6_41E7_AF463B087160.url = skin/Image_947588FB_BEAD_47B6_41E7_AF463B087160_es.png
+Image_9477CD4D_BEB7_DED2_41E1_179122702661.url = skin/Image_9477CD4D_BEB7_DED2_41E1_179122702661_es.png
+Image_990E48E3_BDEB_47D6_41DA_6B5F359921A0.url = skin/Image_990E48E3_BDEB_47D6_41DA_6B5F359921A0_es.jpg
+Image_990E48E3_BDEB_47D6_41DA_6B5F359921A0_mobile.url = skin/Image_990E48E3_BDEB_47D6_41DA_6B5F359921A0_mobile_es.jpg
+Image_9D193B84_BD5B_5A52_41E4_23AA1C08A7C6.url = skin/Image_9D193B84_BD5B_5A52_41E4_23AA1C08A7C6_es.png
+Image_9D193B84_BD5B_5A52_41E4_23AA1C08A7C6_mobile.url = skin/Image_9D193B84_BD5B_5A52_41E4_23AA1C08A7C6_mobile_es.png
+Image_A853333B_BD75_4AB6_41E1_527BEA53E40C.url = skin/Image_A853333B_BD75_4AB6_41E1_527BEA53E40C_es.png
+Image_A853333B_BD75_4AB6_41E1_527BEA53E40C_mobile.url = skin/Image_A853333B_BD75_4AB6_41E1_527BEA53E40C_mobile_es.png
+Image_AECF886F_BD55_46AE_41C1_F1FA2DD6C8F4.url = skin/Image_AECF886F_BD55_46AE_41C1_F1FA2DD6C8F4_es.png
+Image_AECF886F_BD55_46AE_41C1_F1FA2DD6C8F4_mobile.url = skin/Image_AECF886F_BD55_46AE_41C1_F1FA2DD6C8F4_mobile_es.png
+
+### Texto Multilínea
+HTMLText_A103FD98_BD7D_5E72_41DD_7E803E6F8F04.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:16px;font-family:Tahoma, Geneva, sans-serif;">© Aljomar - Todos los derechos reservados</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:16px;font-family:Tahoma, Geneva, sans-serif;">Fotografía 360º : </SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="https://fotografiaspanoramicas.com" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#cccccc;font-size:16px;font-family:Tahoma, Geneva, sans-serif;">José Ángel Barbero</SPAN></A></SPAN></SPAN></DIV></div>
+HTMLText_A103FD98_BD7D_5E72_41DD_7E803E6F8F04_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:8px;font-family:Tahoma, Geneva, sans-serif;">© Aljomar - Todos los derechos reservados</SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:8px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:8px;font-family:Tahoma, Geneva, sans-serif;">Fotografía 360º : José Ángel Barbero</SPAN></SPAN></DIV></div>
+HTMLText_990E38E3_BDEB_47D6_41E6_3900CCBFA179.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.829999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.74vh;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.74vh;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.4800000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.48vh;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7200000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7200000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>lorem ipsum:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7000000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.7vh;font-family:'Bebas Neue Bold';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+HTMLText_990E38E3_BDEB_47D6_41E6_3900CCBFA179_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.829999999999999vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:7.83vh;font-family:'Bebas Neue Bold';">___</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.74vh;font-family:'Bebas Neue Bold';">Lorem ipsum</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6.740000000000001vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:6.74vh;font-family:'Bebas Neue Bold';">dolor sit amet</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.4800000000000004vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.48vh;font-family:'Bebas Neue Bold';">consectetur adipiscing elit. Morbi bibendum pharetra lorem, accumsan san nulla.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7200000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>Donec feugiat:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;"> • Nisl nec mi sollicitudin facilisis </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;"> • Nam sed faucibus est.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;"> • Ut eget lorem sed leo.</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;"> • Sollicitudin tempor sit amet non urna. </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:1.2vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.2vh;"> • Aliquam feugiat mauris sit amet.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:2.72vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7200000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.72vh;font-family:'Bebas Neue Bold';"><B>lorem ipsum:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.7000000000000006vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#04a3e1;font-size:3.7vh;font-family:'Bebas Neue Bold';"><B>$150,000</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_A6A6C598_BD7F_4E72_41BC_96ED8741A0EE_mobile.toolTip = Compartir
+IconButton_A6A6A598_BD7F_4E72_41C8_B440694F6EAB_mobile.toolTip = Compartir
+IconButton_A6A6D598_BD7F_4E72_41CB_01B41F01D9CA_mobile.toolTip = Compartir
+IconButton_A6A6C598_BD7F_4E72_41BC_96ED8741A0EE.toolTip = Compartir
+IconButton_A6A6A598_BD7F_4E72_41C8_B440694F6EAB.toolTip = Compartir
+IconButton_A6A6D598_BD7F_4E72_41CB_01B41F01D9CA.toolTip = Compartir
+IconButton_A6A65598_BD7F_4E72_41B0_5FE347D5DB0C_mobile.toolTip = Giroscopio
+IconButton_A6A65598_BD7F_4E72_41B0_5FE347D5DB0C.toolTip = Giroscopio
+IconButton_A6A6E598_BD7F_4E72_4176_16CDE8468B6C_mobile.toolTip = Información
+IconButton_A6A6E598_BD7F_4E72_4176_16CDE8468B6C.toolTip = Información
+IconButton_A6A6F598_BD7F_4E72_41D2_9203952BDE09.toolTip = Mapa General
+IconButton_A6A6F598_BD7F_4E72_41D2_9203952BDE09_mobile.toolTip = Mapa General
+IconButton_A6A6B598_BD7F_4E72_41DA_426CF846FF4B.toolTip = Mostrar/Ocultar Flechas e Iconos
+IconButton_A6A6B598_BD7F_4E72_41DA_426CF846FF4B_mobile.toolTip = Mostrar/Ocultar Flechas e Iconos
+IconButton_A6A60598_BD7F_4E72_41B5_89DB4314E4B3_mobile.toolTip = Mute
+IconButton_A6A60598_BD7F_4E72_41B5_89DB4314E4B3.toolTip = Mute
+IconButton_A6A76598_BD7F_4E72_41D3_71C9FCBF8950_mobile.toolTip = PLANO
+IconButton_A6A76598_BD7F_4E72_41D3_71C9FCBF8950.toolTip = PLANO
+IconButton_A6A63598_BD7F_4E72_41E1_1A363AE907AA.toolTip = Pantalla Completa
+IconButton_A6A63598_BD7F_4E72_41E1_1A363AE907AA_mobile.toolTip = Pantalla Completa
+IconButton_A6A62598_BD7F_4E72_41B4_4C357B99AAD3_mobile.toolTip = Parar/Reproducir Autogiro
+IconButton_A6A62598_BD7F_4E72_41B4_4C357B99AAD3.toolTip = Parar/Reproducir Autogiro
+IconButton_A6A68598_BD7F_4E72_41E6_D76F5141FC03.toolTip = Realizar captura
+IconButton_A6A68598_BD7F_4E72_41E6_D76F5141FC03_mobile.toolTip = Realizar captura
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Aljomar
